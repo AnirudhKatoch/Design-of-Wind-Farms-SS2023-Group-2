@@ -33,4 +33,29 @@ Provided data and constraints
 
 ## Results
 
+The results were visualized
+(Shown below is only part of the results)
+
+AEP
+
+<img align="center" alt="Coding" width="600" src="https://i.imgur.com/9dfKPe2.png">
+
+LCOE
+
+<img align="center" alt="Coding" width="600" src="https://i.imgur.com/1je7PvV.png">
+
+Cost Breakdown
+
+<img align="center" alt="Coding" width="600" src="https://i.imgur.com/EqkNKW7.png">
+
+PI (Profitability Index)
+
+<img align="center" alt="Coding" width="600" src="https://i.imgur.com/hhHSBZA.png">
+
+* So, a total of 36 different scenarios were evaluated based on number of turbines, type of turbines, location and wake steering.
+* Out of all the scenario it was concluded that a total of 15 IEA 3.4MW Reference turbines at Kastrup location with wake steering is the most economical feasible project.
+* It has AEP of 295.9917 GWh, LCOE of  38.85 $/MWh , IRR of 18.5 and PI of 1.68 . 
+
+
+
 
